@@ -1,0 +1,1 @@
+This is a repository for training webpack skills and the basics of the scss preprocessor.
